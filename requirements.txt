@@ -1,0 +1,7 @@
+# Servidor web local
+Flask==3.1.3
+
+# Motor de download. Mantenha sempre atualizado: os extratores de Instagram,
+# Facebook e Reddit quebram com frequencia e so sao corrigidos em versoes novas.
+# Atualize com:  pip install -U yt-dlp
+yt-dlp>=2026.7.4
